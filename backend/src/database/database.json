@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1e7b1d5e-8f3b-4c9b-9b1d-1e7b1d5e8f3b",
+    "title": "Introduction to JavaScript",
+    "content": "JavaScript is a versatile programming language used for web development, among other things. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "author": "John Doe"
+  },
+  {
+    "id": "2e7b1d5e-8f3b-4c9b-9b1d-2e7b1d5e8f3b",
+    "title": "Understanding CSS",
+    "content": "CSS is used to style and layout web pages. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "author": "Jane Doe"
+  },
+  {
+    "id": "3e7b1d5e-8f3b-4c9b-9b1d-3e7b1d5e8f3b",
+    "title": "Getting Started with HTML",
+    "content": "HTML is the standard markup language for creating web pages. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "author": "Alice Smith"
+  },
+  {
+    "id": "4e7b1d5e-8f3b-4c9b-9b1d-4e7b1d5e8f3b",
+    "title": "Introduction to TypeScript",
+    "content": "TypeScript is a typed superset of JavaScript that compiles to plain JavaScript. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "author": "Bob Johnson"
+  },
+  {
+    "id": "5e7b1d5e-8f3b-4c9b-9b1d-5e7b1d5e8f3b",
+    "title": "Learning React",
+    "content": "React is a JavaScript library for building user interfaces. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "author": "Charlie Brown"
+  },
+  {
+    "id": "6e7b1d5e-8f3b-4c9b-9b1d-6e7b1d5e8f3b",
+    "title": "Mastering Node.js",
+    "content": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "author": "David Wilson"
+  },
+  {
+    "id": "7e7b1d5e-8f3b-4c9b-9b1d-7e7b1d5e8f3b",
+    "title": "Exploring Express.js",
+    "content": "Express.js is a web application framework for Node.js. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "author": "Eve Davis"
+  },
+  {
+    "id": "8e7b1d5e-8f3b-4c9b-9b1d-8e7b1d5e8f3b",
+    "title": "Understanding MongoDB",
+    "content": "MongoDB is a NoSQL database for modern applications. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "author": "Frank Miller"
+  },
+  {
+    "id": "9e7b1d5e-8f3b-4c9b-9b1d-9e7b1d5e8f3b",
+    "title": "Introduction to GraphQL",
+    "content": "GraphQL is a query language for your API. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "author": "Grace Lee"
+  },
+  {
+    "id": "10e7b1d5e-8f3b-4c9b-9b1d-10e7b1d5e8f3b",
+    "title": "Getting Started with Docker",
+    "content": "Docker is a platform for developing, shipping, and running applications. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "author": "Hannah White"
+  }
+]
